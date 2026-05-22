@@ -9,5 +9,3 @@
 
 ## Це моя перша сторінкаті я не знаю що можн аще сюди добавити, буду думати
 
-### статистика GitHub
-![Статистика Олексія](https://github-readme-stats.vercel.app/api?username=Oleksii-dot278&show_icons=true&theme=midnight-purple)
