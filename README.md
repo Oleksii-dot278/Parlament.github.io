@@ -6,3 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Це моя перша сторінкаті я не знаю що можн аще сюди добавити, буду думати
+
+### статистика GitHub
+![Статистика Олексія](https://github-readme-stats.vercel.app/api?username=Oleksii-dot278&show_icons=true&theme=midnight-purple)
